@@ -1,6 +1,6 @@
 # 22-2-AI
 
-# AI Project for Classification of Dog Breeds
+# Classification of Dog Breeds
 using EfficientNet 
 Best valid Acc: 22 - 94.5
 
